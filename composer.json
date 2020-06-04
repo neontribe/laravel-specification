@@ -1,22 +1,27 @@
 {
-    "name": "chalcedonyt/laravel-specification",
+    "name": "neontribe/laravel-specification",
     "description": "Implementation of the specification pattern",
     "keywords": [
         "laravel",
         "specification",
         "specification pattern"
     ],
-    "homepage": "https://github.com/chalcedonyt/laravel-specification",
+    "homepage": "https://github.com/neontribe/laravel-specification",
     "license": "MIT",
     "authors": [
         {
             "name": "Tim Teoh",
             "email": "chalcedonyt@gmail.com",
             "role": "Developer"
+        },
+        {
+            "name": "Toby Batch",
+            "email": "tobias@neontribe.co.uk",
+            "role": "Developer"
         }
     ],
     "require": {
-        "illuminate/support": "~5.1",
+        "illuminate/support": ">= 5.1",
         "php" : ">=5.3.0"
     },
     "require-dev": {
